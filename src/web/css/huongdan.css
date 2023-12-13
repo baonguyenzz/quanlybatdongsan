@@ -1,0 +1,166 @@
+.typed {
+    float: left;
+    color: cornflowerblue;
+}
+
+.section-1 {
+    height: 1000px;
+}
+
+.opacity {
+    position: absolute;
+    height: 1000px;
+    background-color: rgb(255, 255, 255, 0.5);
+    width: 100%;
+    z-index: 2;
+}
+
+.iconboxfirst {
+    display: flex;
+    width: 42px;
+    height: 42px;
+    padding: 8px;
+    background-color: rgb(244, 245, 241);
+    align-items: center;
+    justify-content: center;
+    border-radius: 30px;
+    margin-top: 10px;
+}
+
+.iconbox {
+    display: flex;
+    width: 42px;
+    height: 42px;
+    padding: 8px;
+    background-color: rgba(240, 236, 236, 0.945);
+    align-items: center;
+    justify-content: center;
+    border-radius: 30px;
+}
+
+.iconbox img {
+    margin: 20px;
+    width: 30px;
+    height: 30px;
+    object-fit: contain;
+
+}
+
+.iconboxfirst img {
+    margin: 20px;
+    width: 30px;
+    height: 30px;
+    object-fit: contain;
+
+}
+
+.section-1 img {
+    height: 1000px;
+}
+
+.info {
+    margin-left: 100px;
+    position: absolute;
+    margin-left: 300px;
+    z-index: 2;
+}
+
+.menu-left {
+    position: fixed;
+    z-index: 2;
+}
+
+#typed-output {
+    font-size: 25px;
+}
+
+.icon-contact {
+    margin-top: 30px;
+}
+
+.icon-contact i {
+    margin-left: 30px;
+    font-size: x-large;
+}
+
+.ml-0 {
+    margin-left: 0px !important;
+}
+
+.line-color {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.line {
+    width: 40px;
+    height: 2px;
+    background-color: #ccc;
+    /* Màu xám nhạt */
+}
+
+.highlight {
+    padding: 0 10px;
+    background-color: #007acc;
+    /* Màu xanh dương */
+    color: #fff;
+    /* Màu chữ trắng */
+    height: 2px;
+    width: 50px;
+}
+
+.section-2 {
+    margin-top: 50px;
+    margin-left: 300px;
+    margin-right: 200px;
+    text-align: center;
+}
+
+.image-about img {
+    height: 400px;
+    width: 90%;
+}
+
+.contact-about ul {
+    list-style: none;
+    float: left;
+    padding-left: 15px;
+}
+
+.contact-about ul li {
+    display: flex;
+    margin-bottom: 20px;
+    align-items: center;
+}
+
+.section-3 {
+    margin-top: 50px;
+    margin-left: 300px;
+    margin-right: 200px;
+    text-align: center;
+}
+
+.box {
+    text-align: center;
+    width: 100%;
+}
+
+.section-4 {
+    margin-top: 50px;
+    margin-left: 300px;
+    margin-right: 200px;
+    text-align: center;
+}
+
+
+.skill {
+    width: 100%;
+}
+
+#typed-output {
+    color: red;
+}
